@@ -1,0 +1,7 @@
+# Secrets: never commit these
+.env
+
+# Your actual files, database and database dumps
+nextcloud/
+db/
+db-dump/
